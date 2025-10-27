@@ -101,9 +101,8 @@ python client.py
 lan-chat-system/
 ├── server.py          # Server application
 ├── client.py          # Client application
-├── README.md          # This guide
-└── docs/
-    └── documentation.md   # Detailed documentation
+└── README.md          # This guide
+ 
 ```
 
 ## Building the Server
@@ -375,5 +374,6 @@ source chat-env/bin/activate
 python server.py
 python client.py
 ```
+
 
 This completes the comprehensive build guide for the LAN Chat System. The system is ready for deployment and can be extended with additional features as needed.
